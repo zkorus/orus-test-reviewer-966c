@@ -1,0 +1,12 @@
+v: 0
+run: 20261019T024253Z-reviewer-6e91
+repo: zkorus/orus-test-reviewer-966c
+role: reviewer
+item: "#2"
+machine: m-c8cd3714
+attempt: 1
+state: running
+resumes: null
+started: 2026-10-19T02:42:53Z
+role_commit: ac12d0c9a5d66689094637932ac1512320feff2e
+head: 9acac6ed223cfe7b8fd39cc92fe2c6d7159af7a0
