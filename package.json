@@ -1,0 +1,7 @@
+{
+  "name": "orus-test-reviewer-966c",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
